@@ -1,24 +1,24 @@
 ---
 title: "Ensino"
 collection: teaching
-type: "Gradua玢o"
+type: "Gradua莽茫o"
 permalink: /teaching/2023-UFJF-substituto-grad
 venue: "Universidade Federal de Juiz de Fora, Departmentamento de Circuitos El茅tricos"
 date: 2023
 location: "Juiz de Fora, Brasil"
 ---
 
-Professor Substituto no Departamento de Circuitos El閠ricos desde MAr鏾 de 2023
+Professor Substituto no Departamento de Circuitos El茅tricos desde Mar莽o de 2023
 
 Disciplinas
 ======
 * Circuitos Lineares II
 
-* Laborat髍io de Circuitos El閠ricos
+* Laborat贸rio de Circuitos El茅tricos
 
-* Laborat髍io de Eletr鬾ica
+* Laborat贸rio de Eletr么nica
 
-* Laborat髍io de Sistemas Eletr鬾icos II
+* Laborat贸rio de Sistemas Eletr么nicos II
 
-* Eletr鬾ica Digital
+* Eletr么nica Digital
 

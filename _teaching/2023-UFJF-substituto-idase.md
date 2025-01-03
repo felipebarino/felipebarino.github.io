@@ -1,15 +1,15 @@
 ---
 title: "Ensino"
 collection: teaching
-type: "Pós-graduação Latu-sensu"
+type: "PÃ³s-graduaÃ§Ã£o Latu-sensu"
 permalink: /teaching/2023-UFJF-substituto-grad
-venue: "Universidade Federal de Juiz de Fora, Departmentamento de Circuitos Elétricos"
+venue: "Universidade Federal de Juiz de Fora, Departmentamento de Circuitos ElÃ©tricos"
 date: 2023
 location: "Juiz de Fora, Brasil"
 ---
 
-Lecionou a disciplina de Instrumentação para o curso de pós-graduação em Inteligência de Dados Aplicada ao Setor Elétrico.
+Lecionou a disciplina de InstrumentaÃ§Ã£o para o curso de pÃ³s-graduaÃ§Ã£o em InteligÃªncia de Dados Aplicada ao Setor ElÃ©trico.
 
 Disciplina
 ======
-* Instrumentação
+* InstrumentaÃ§Ã£o
