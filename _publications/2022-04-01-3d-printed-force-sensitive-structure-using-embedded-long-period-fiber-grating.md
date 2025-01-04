@@ -5,7 +5,6 @@ permalink: /publication/2022-04-01-3d-printed-force-sensitive-structure-using-em
 category: manuscripts
 date: 2022-04-01
 venue: 'Optics &amp; Laser Technology'
-paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S0030399221007854'
 citation: ' Felipe Barino,  Renato Faraco-Filho,  Deivid Campos,  Alexandre Santos, &quot;3d-printed force sensitive structure using embedded long-period fiber grating.&quot; Optics &amp;amp; Laser Technology, 2022.'
 ---
 [Acesse o artigo](https://linkinghub.elsevier.com/retrieve/pii/S0030399221007854){:target="_blank"}
