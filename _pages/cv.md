@@ -11,7 +11,7 @@ redirect_from:
 
 Formação
 ======
-* Ph.D em Engenharia Elétrica, Universidade Federal de Juiz de Fora, 2025 (expected)
+* Ph.D em Engenharia Elétrica, Universidade Federal de Juiz de Fora, 2025 (em andamento)
 * M.S. em Engenharia Elétrica, Universidade Federal de Juiz de Fora, 2021
 * B.S. em Engenharia Elétrica, Universidade Federal de Juiz de Fora, 2019
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Felipe Barino"
+title: "Sobre"
 author_profile: true
 redirect_from: 
   - /about/
