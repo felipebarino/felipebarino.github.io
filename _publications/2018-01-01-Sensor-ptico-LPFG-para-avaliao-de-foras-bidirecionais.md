@@ -2,7 +2,7 @@
 title: "Sensor óptico LPFG para avaliação de forças bidirecionais"
 collection: publications
 permalink: /publication/2018-01-01-Sensor-ptico-LPFG-para-avaliao-de-foras-bidirecionais
-category: Artigos em Conferências
+category: conferences
 date: 2018-01-01
 venue: 'Nos anais do XXII Congresso Brasileiro de Automática'
 paperurl: 'https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/749/701'

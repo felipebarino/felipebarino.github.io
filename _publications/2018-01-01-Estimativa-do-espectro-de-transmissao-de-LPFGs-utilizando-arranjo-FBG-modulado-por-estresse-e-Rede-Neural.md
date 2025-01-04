@@ -2,7 +2,7 @@
 title: "Estimativa do espectro de transmissao de LPFGs utilizando arranjo FBG modulado por estresse e Rede Neural"
 collection: publications
 permalink: /publication/2018-01-01-Estimativa-do-espectro-de-transmissao-de-LPFGs-utilizando-arranjo-FBG-modulado-por-estresse-e-Rede-Neural
-category: Artigos em Conferências
+category: conferences
 date: 2018-01-01
 venue: 'Nos anais do MOMAG 2018'
 paperurl: 'https://www.sbmo.org.br/anais_momag/anais_momag_2018.pdf'

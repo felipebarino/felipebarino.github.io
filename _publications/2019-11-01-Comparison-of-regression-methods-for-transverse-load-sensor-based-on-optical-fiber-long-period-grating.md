@@ -2,7 +2,7 @@
 title: "Comparison of regression methods for transverse load sensor based on optical fiber long-period grating"
 collection: publications
 permalink: /publication/2019-11-01-Comparison-of-regression-methods-for-transverse-load-sensor-based-on-optical-fiber-long-period-grating
-category: Artigos em Periódicos
+category: manuscripts
 date: 2019-11-01
 venue: 'Measurement'
 paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S026322411930644X'

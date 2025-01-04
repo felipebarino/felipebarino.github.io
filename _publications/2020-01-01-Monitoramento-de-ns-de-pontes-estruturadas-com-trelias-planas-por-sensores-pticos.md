@@ -2,7 +2,7 @@
 title: "Monitoramento de nós de pontes estruturadas com treliças planas por sensores ópticos"
 collection: publications
 permalink: /publication/2020-01-01-Monitoramento-de-ns-de-pontes-estruturadas-com-trelias-planas-por-sensores-pticos
-category: Artigos em Conferências
+category: conferences
 date: 2020-01-01
 venue: 'Nos anais do MOMAG 2020'
 paperurl: 'https://drive.google.com/file/d/1awjFbTcpKIOPFysm7B4sbeM2LxB-AcKG/view?ts=602fbb6b'
