@@ -8,7 +8,7 @@ venue: 'Journal of Food Engineering'
 citation: ' Renato Filho,  Felipe Barino,  João Calderano,  Deivid Campos,  Ítalo Alvarenga,  André Manhas,  Alexandre Santos, &quot;Novel beer bitterness measurement instrument using optical fiber sensor.&quot; Journal of Food Engineering, 2024.'
 ---
 
-<img src="/images/graphical_abstract_beer_bitterness.jpg">
+<br><img src="/images/graphical_abstract_beer_bitterness.jpg">
 
 ## O problema
 

@@ -8,6 +8,8 @@ venue: 'Sensors 2024, Vol. 24, Page 4601'
 citation: ' Renato Faraco,  Felipe Barino,  Deivid Campos,  Guilherme Sampaio,  Leonardo Honório,  André Marcato,  Alexandre Santos,  Clayton Santos,  Fernando Hamaji, &quot;Hydroelectric Plant Safety: Real-Time Monitoring Utilizing Fiber-Optic Sensors.&quot; Sensors 2024, Vol. 24, Page 4601, 2024.'
 ---
 
+<br>
+
 ## O problema
 
 A segurança de usinas hidrelétricas é crucial devido à sua importância na produção de energia e aos riscos potenciais de falhas estruturais. As grades de proteção ao redor das turbinas são particularmente vulneráveis a danos causados por detritos submersos, o que pode levar a obstruções do fluxo de água e comprometer a eficiência e a segurança da usina.
