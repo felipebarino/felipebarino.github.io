@@ -49,7 +49,8 @@ Publicações
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        {{ category[1].title }}
+        category[1].title
+        ---
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single-cv.html %}
