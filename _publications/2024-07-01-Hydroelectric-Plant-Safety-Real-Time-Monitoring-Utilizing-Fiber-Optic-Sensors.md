@@ -2,6 +2,7 @@
 title: "Hydroelectric Plant Safety: Real-Time Monitoring Utilizing Fiber-Optic Sensors"
 collection: publications
 permalink: /publication/2024-07-01-Hydroelectric-Plant-Safety-Real-Time-Monitoring-Utilizing-Fiber-Optic-Sensors
+category: Artigos em Periódicos
 date: 2024-07-01
 venue: 'Sensors 2024, Vol. 24, Page 4601'
 paperurl: 'https://www.mdpi.com/1424-8220/24/14/4601/htm https://www.mdpi.com/1424-8220/24/14/4601'

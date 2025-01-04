@@ -2,6 +2,7 @@
 title: "3d-printed force sensitive structure using embedded long-period fiber grating"
 collection: publications
 permalink: /publication/2022-04-01-3d-printed-force-sensitive-structure-using-embedded-long-period-fiber-grating
+category: Artigos em Periódicos
 date: 2022-04-01
 venue: 'Optics &amp; Laser Technology'
 paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S0030399221007854'

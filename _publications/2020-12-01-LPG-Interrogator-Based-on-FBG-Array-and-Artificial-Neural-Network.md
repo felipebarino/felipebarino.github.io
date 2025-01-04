@@ -2,6 +2,7 @@
 title: "LPG Interrogator Based on FBG Array and Artificial Neural Network"
 collection: publications
 permalink: /publication/2020-12-01-LPG-Interrogator-Based-on-FBG-Array-and-Artificial-Neural-Network
+category: Artigos em Periódicos
 date: 2020-12-01
 venue: 'IEEE Sensors Journal'
 paperurl: 'https://ieeexplore.ieee.org/document/9136757/'

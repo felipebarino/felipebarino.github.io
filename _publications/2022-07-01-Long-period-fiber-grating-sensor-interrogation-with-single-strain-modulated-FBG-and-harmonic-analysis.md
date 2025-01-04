@@ -2,6 +2,7 @@
 title: "Long-period fiber grating sensor interrogation with single strain modulated FBG and harmonic analysis"
 collection: publications
 permalink: /publication/2022-07-01-Long-period-fiber-grating-sensor-interrogation-with-single-strain-modulated-FBG-and-harmonic-analysis
+category: Artigos em Periódicos
 date: 2022-07-01
 venue: 'Optical Fiber Technology'
 paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S1068520022001237'

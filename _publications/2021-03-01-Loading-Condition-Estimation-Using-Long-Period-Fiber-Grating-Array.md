@@ -2,6 +2,7 @@
 title: "Loading Condition Estimation Using Long-Period Fiber Grating Array"
 collection: publications
 permalink: /publication/2021-03-01-Loading-Condition-Estimation-Using-Long-Period-Fiber-Grating-Array
+category: Artigos em Periódicos
 date: 2021-03-01
 venue: 'IEEE Sensors Journal'
 paperurl: 'https://ieeexplore.ieee.org/document/9284525/'

@@ -1,0 +1,11 @@
+---
+title: "Sensor LPFG aplicado à linha de transmissão de energia"
+collection: publications
+permalink: /publication/2018-01-01-Sensor-LPFG-aplicado-linha-de-transmisso-de-energia
+category: Artigos em Conferências
+date: 2018-01-01
+venue: 'Nos anais do MOMAG 2018'
+paperurl: 'https://www.sbmo.org.br/anais_momag/anais_momag_2018.pdf'
+citation: ' Felipe Barino,  Ana Corbolan,  Manuella Cruz,  Alexandre Santos, &quot;Sensor LPFG aplicado à linha de transmissão de energia.&quot; Nos anais do MOMAG 2018, 2018.'
+---
+[Access paper here](https://www.sbmo.org.br/anais_momag/anais_momag_2018.pdf){:target="_blank"}
