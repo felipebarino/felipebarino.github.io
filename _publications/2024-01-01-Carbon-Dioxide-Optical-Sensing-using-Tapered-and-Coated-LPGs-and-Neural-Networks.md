@@ -8,6 +8,8 @@ venue: 'Journal of Microwaves, Optoelectronics and Electromagnetic Applications'
 citation: ' Manuella Oliveira,  Felipe Barino,  Nelson Cevidanes,  Thales Curty,  Ulysses Vitor,  Jose Souto,  Pablo Acedo,  Diogo Coelho,  Alexandre Santos, &quot;Carbon Dioxide Optical Sensing using Tapered and Coated LPGs and Neural Networks.&quot; Journal of Microwaves, Optoelectronics and Electromagnetic Applications, 2024.'
 ---
 
+<br>
+
 ## O Problema
 
 A medição precisa da concentração de dióxido de carbono (CO2) em ambientes industriais e clínicos é crucial para garantir a segurança e a eficiência dos processos. Os métodos tradicionais de detecção de CO2 podem ser caros, complexos e exigir manutenção frequente.
