@@ -4,7 +4,7 @@ collection: teaching
 type: "Pós-graduação Latu-sensu"
 permalink: /teaching/2023-UFJF-substituto-grad
 venue: "Universidade Federal de Juiz de Fora, Departmentamento de Circuitos Elétricos"
-date: 2023
+date: 2024-04-01
 location: "Juiz de Fora, Brasil"
 ---
 
