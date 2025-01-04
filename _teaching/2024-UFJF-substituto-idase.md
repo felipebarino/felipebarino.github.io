@@ -1,5 +1,5 @@
 ---
-title: "Ensino"
+title: "Pós-graduação - UFJF"
 collection: teaching
 type: "Pós-graduação Latu-sensu"
 permalink: /teaching/2023-UFJF-substituto-grad

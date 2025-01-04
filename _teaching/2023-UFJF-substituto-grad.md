@@ -1,5 +1,5 @@
 ---
-title: "Ensino"
+title: "Engenharia Elétrica - UFJF"
 collection: teaching
 type: "Graduação"
 permalink: /teaching/2023-UFJF-substituto-grad
