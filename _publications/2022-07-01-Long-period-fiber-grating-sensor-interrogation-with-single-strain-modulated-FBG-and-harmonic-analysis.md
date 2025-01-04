@@ -8,4 +8,4 @@ venue: 'Optical Fiber Technology'
 paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S1068520022001237'
 citation: ' Guilherme Sampaio,  Felipe Barino,  Alexandre Santos, &quot;Long-period fiber grating sensor interrogation with single strain modulated FBG and harmonic analysis.&quot; Optical Fiber Technology, 2022.'
 ---
-[Access paper here](https://linkinghub.elsevier.com/retrieve/pii/S1068520022001237){:target="_blank"}
+[Acesse o artigo](https://linkinghub.elsevier.com/retrieve/pii/S1068520022001237){:target="_blank"}

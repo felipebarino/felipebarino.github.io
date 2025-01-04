@@ -8,4 +8,4 @@ venue: 'Nos anais do MOMAG 2020'
 paperurl: 'https://drive.google.com/file/d/1awjFbTcpKIOPFysm7B4sbeM2LxB-AcKG/view?ts=602fbb6b'
 citation: ' Guilherme Ébias,  Júlia Bittencourt,  Felipe Barino,  Alexandre Santos, &quot;Monitoramento de nós de pontes estruturadas com treliças planas por sensores ópticos.&quot; Nos anais do MOMAG 2020, 2020.'
 ---
-[Access paper here](https://drive.google.com/file/d/1awjFbTcpKIOPFysm7B4sbeM2LxB-AcKG/view?ts=602fbb6b){:target="_blank"}
+[Acesse o artigo](https://drive.google.com/file/d/1awjFbTcpKIOPFysm7B4sbeM2LxB-AcKG/view?ts=602fbb6b){:target="_blank"}

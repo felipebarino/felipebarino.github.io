@@ -8,4 +8,4 @@ venue: 'Nos anais do SBrT 2020'
 paperurl: 'http://dx.doi.org/10.14209/SBRT.2020.1570640893'
 citation: ' Felipe Barino,  Alexandre Santos, &quot;Rede Neural Convolucional 1D aplicada à previsão da vazão no Rio Madeira.&quot; Nos anais do SBrT 2020, 2020.'
 ---
-[Access paper here](http://dx.doi.org/10.14209/SBRT.2020.1570640893){:target="_blank"}
+[Acesse o artigo](http://dx.doi.org/10.14209/SBRT.2020.1570640893){:target="_blank"}

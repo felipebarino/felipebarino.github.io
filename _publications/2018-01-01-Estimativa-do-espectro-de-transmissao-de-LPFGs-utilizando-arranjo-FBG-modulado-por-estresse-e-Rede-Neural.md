@@ -8,4 +8,4 @@ venue: 'Nos anais do MOMAG 2018'
 paperurl: 'https://www.sbmo.org.br/anais_momag/anais_momag_2018.pdf'
 citation: ' Felipe Barino,  Daniel Silveira,  Thiago Coelho,  Alexandre Santos, &quot;Estimativa do espectro de transmissao de LPFGs utilizando arranjo FBG modulado por estresse e Rede Neural.&quot; Nos anais do MOMAG 2018, 2018.'
 ---
-[Access paper here](https://www.sbmo.org.br/anais_momag/anais_momag_2018.pdf){:target="_blank"}
+[Acesse o artigo](https://www.sbmo.org.br/anais_momag/anais_momag_2018.pdf){:target="_blank"}

@@ -8,4 +8,4 @@ venue: 'Nos anais do LAWOFS 2019'
 paperurl: 'https://www.sbmo.org.br/lawofs/Proceedings-LAWOFS_2019_final.pdf'
 citation: ' Felipe Barino,  Alexandre Santos, &quot;LPG Spectrum Estimation Using Neural Networks and Temperature Modulated FBG.&quot; Nos anais do LAWOFS 2019, 2019.'
 ---
-[Access paper here](https://www.sbmo.org.br/lawofs/Proceedings-LAWOFS_2019_final.pdf){:target="_blank"}
+[Acesse o artigo](https://www.sbmo.org.br/lawofs/Proceedings-LAWOFS_2019_final.pdf){:target="_blank"}

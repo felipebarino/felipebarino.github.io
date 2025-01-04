@@ -8,4 +8,4 @@ venue: 'Nos anais do XXII Congresso Brasileiro de Automática'
 paperurl: 'https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/749/701'
 citation: ' Felipe Barino,  Alexandre Santos, &quot;Sensor óptico LPFG para avaliação de forças bidirecionais.&quot; Nos anais do XXII Congresso Brasileiro de Automática, 2018.'
 ---
-[Access paper here](https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/749/701){:target="_blank"}
+[Acesse o artigo](https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/749/701){:target="_blank"}

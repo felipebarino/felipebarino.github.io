@@ -8,4 +8,4 @@ venue: 'IEEE Sensors Journal'
 paperurl: 'https://ieeexplore.ieee.org/document/9284525/'
 citation: ' Felipe Barino,  Renato Faraco-Filho,  Deivid Campos,  Vinicius Silva,  Andres Lopez-Barbero,  Leonardo Mello,  Alexandre Santos, &quot;Loading Condition Estimation Using Long-Period Fiber Grating Array.&quot; IEEE Sensors Journal, 2021.'
 ---
-[Access paper here](https://ieeexplore.ieee.org/document/9284525/){:target="_blank"}
+[Acesse o artigo](https://ieeexplore.ieee.org/document/9284525/){:target="_blank"}

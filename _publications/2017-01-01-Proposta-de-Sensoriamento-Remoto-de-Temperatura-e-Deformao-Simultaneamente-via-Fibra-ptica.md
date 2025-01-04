@@ -8,4 +8,4 @@ venue: 'Nos anais do XVIII Simpósio Brasileiro de Sensoriamento Remoto'
 paperurl: 'http://marte2.sid.inpe.br/col/sid.inpe.br/marte2/2017/10.27.13.48.39/doc/thisInformationItemHomePage.html'
 citation: ' Felipe Barino,  Felipe Delgado,  Thiago Coelho,  Alexandre Santos, &quot;Proposta de Sensoriamento Remoto de Temperatura e Deformação Simultaneamente via Fibra Óptica.&quot; Nos anais do XVIII Simpósio Brasileiro de Sensoriamento Remoto, 2017.'
 ---
-[Access paper here](http://marte2.sid.inpe.br/col/sid.inpe.br/marte2/2017/10.27.13.48.39/doc/thisInformationItemHomePage.html){:target="_blank"}
+[Acesse o artigo](http://marte2.sid.inpe.br/col/sid.inpe.br/marte2/2017/10.27.13.48.39/doc/thisInformationItemHomePage.html){:target="_blank"}
