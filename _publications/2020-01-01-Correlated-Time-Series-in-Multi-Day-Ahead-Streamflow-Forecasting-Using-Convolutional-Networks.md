@@ -7,4 +7,4 @@ date: 2020-01-01
 venue: 'IEEE Access'
 citation: ' Felipe Barino,  Vinicius Silva,  Andres Lopez-Barbero,  Leonardo Honorio,  Alexandre Santos, &quot;Correlated Time-Series in Multi-Day-Ahead Streamflow Forecasting Using Convolutional Networks.&quot; IEEE Access, 2020.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Correlated+Time+Series+in+Multi+Day+Ahead+Streamflow+Forecasting+Using+Convolutional+Networks){:target="_blank"} for full citation
+[Acesse o artigo](https://doi.org/10.1109/ACCESS.2020.3040942){:target="_blank"}

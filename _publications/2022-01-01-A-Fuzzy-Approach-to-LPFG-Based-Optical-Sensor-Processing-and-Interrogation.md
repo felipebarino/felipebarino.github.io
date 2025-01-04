@@ -7,4 +7,4 @@ date: 2022-01-01
 venue: 'IEEE Transactions on Instrumentation and Measurement'
 citation: ' Felipe Barino,  Eduardo Aguiar,  Leonardo Honório,  Vinicius Silva,  Andrés López-Barbero,  Alexandre Santos, &quot;A Fuzzy Approach to LPFG-Based Optical Sensor Processing and Interrogation.&quot; IEEE Transactions on Instrumentation and Measurement, 2022.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=A+Fuzzy+Approach+to+LPFG+Based+Optical+Sensor+Processing+and+Interrogation){:target="_blank"} for full citation
+[Acesse o artigo](https://doi.org/10.1109/TIM.2022.3216390){:target="_blank"}
