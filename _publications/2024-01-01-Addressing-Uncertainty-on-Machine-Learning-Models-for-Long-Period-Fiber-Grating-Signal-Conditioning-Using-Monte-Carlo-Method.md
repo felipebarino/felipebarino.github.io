@@ -8,6 +8,8 @@ venue: 'IEEE Transactions on Instrumentation and Measurement'
 citation: ' Felipe Barino,  Alexandre Santos, &quot;Addressing Uncertainty on Machine Learning Models for Long-Period Fiber Grating Signal Conditioning Using Monte Carlo Method.&quot; IEEE Transactions on Instrumentation and Measurement, 2024.'
 ---
 
+[Acesse o artigo](https://doi.org/10.1109/TIM.2024.3350133){:target="_blank"}
+
 <img src="/images/graphical_abstract_uncertainty.png">
 
 ## O problema
@@ -26,4 +28,3 @@ Os resultados demonstram que os modelos de ML são capazes de atenuar ruídos op
 
 Esperamos que este trabalho sirva como guia metodológico para avaliar a incerteza em interrogadores de sensores ópticos baseados em ML, contribuindo para a confiabilidade e a robustez desses sistemas. Assim como para outros sensores que usam ML como modelo de medição.
 
-[Acesse o artigo](https://doi.org/10.1109/TIM.2024.3350133){:target="_blank"}

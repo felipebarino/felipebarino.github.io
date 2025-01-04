@@ -8,7 +8,7 @@ venue: 'Journal of Microwaves, Optoelectronics and Electromagnetic Applications'
 citation: ' Manuella Oliveira,  Felipe Barino,  Nelson Cevidanes,  Thales Curty,  Ulysses Vitor,  Jose Souto,  Pablo Acedo,  Diogo Coelho,  Alexandre Santos, &quot;Carbon Dioxide Optical Sensing using Tapered and Coated LPGs and Neural Networks.&quot; Journal of Microwaves, Optoelectronics and Electromagnetic Applications, 2024.'
 ---
 
-<br>
+[Acesse o artigo](https://doi.org/10.1590/2179-10742024v23i3278956){:target="_blank"}
 
 ## O Problema
 
@@ -26,4 +26,3 @@ O sensor foi simulado em software Optigrating e Optisystem, demonstrando alta se
 
 Este trabalho representa um avanço promissor no desenvolvimento de sensores ópticos de CO2. A combinação de LPGf afuniladas e revestidas com RNAs oferece uma solução robusta e precisa para monitorar a concentração de CO2 em tempo real, com potencial aplicação em diversos setores, como o industrial, ambiental e médico.
 
-[Acesse o artigo](https://doi.org/10.1590/2179-10742024v23i3278956){:target="_blank"}

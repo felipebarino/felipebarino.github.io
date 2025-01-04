@@ -8,6 +8,8 @@ venue: 'Sensors and Actuators A: Physical'
 citation: ' Renato Filho,  João Castro,  Felipe Barino,  Deivid Campos,  Alexandre Santos, &quot;Enhanced aroma prediction in coffee fermentation through optical fiber sensor data fusion.&quot; Sensors and Actuators A: Physical, 2024.'
 ---
 
+[Acesse o artigo](https://doi.org/10.1016/J.SNA.2024.115223){:target="_blank"}
+
 <img src="/images/graphical_abstract_enhanced_aroma.jpg">
 
 ## O problema
@@ -26,4 +28,3 @@ A sonda demonstrou ser eficaz na captura e análise de dados durante o processo 
 
 Este trabalho abre caminho para a aplicação de sensores e técnicas de monitoramento em processos industriais, especialmente no setor agroindustrial. As perspectivas futuras incluem o desenvolvimento de sistemas de monitoramento em tempo real que possibilitem um controle mais preciso da fermentação, levando à produção de café com qualidade e eficiência aprimoradas.
 
-[Acesse o artigo](https://doi.org/10.1016/J.SNA.2024.115223){:target="_blank"}

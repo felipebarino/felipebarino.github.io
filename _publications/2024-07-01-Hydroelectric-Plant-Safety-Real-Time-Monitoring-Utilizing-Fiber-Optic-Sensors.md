@@ -8,7 +8,7 @@ venue: 'Sensors 2024, Vol. 24, Page 4601'
 citation: ' Renato Faraco,  Felipe Barino,  Deivid Campos,  Guilherme Sampaio,  Leonardo Honório,  André Marcato,  Alexandre Santos,  Clayton Santos,  Fernando Hamaji, &quot;Hydroelectric Plant Safety: Real-Time Monitoring Utilizing Fiber-Optic Sensors.&quot; Sensors 2024, Vol. 24, Page 4601, 2024.'
 ---
 
-<br>
+[Acesse o artigo](https://www.mdpi.com/1424-8220/24/14/4601){:target="_blank"}
 
 ## O problema
 
@@ -25,5 +25,3 @@ Neste estudo, projetamos e implementamos um conjunto de sensores de fibra óptic
 ## Perspectivas
 
 O desenvolvimento futuro deste sistema de monitoramento inclui a expansão do conjunto de sensores e a integração de algoritmos avançados de análise de dados para melhorar a detecção e resposta em tempo real a eventos críticos. Nosso trabalho contribui para o avanço das estratégias de monitoramento de integridade estrutural (SHM) em usinas hidrelétricas, promovendo a segurança e a eficiência dessas infraestruturas críticas.
-
-[Acesse o artigo](https://www.mdpi.com/1424-8220/24/14/4601){:target="_blank"}

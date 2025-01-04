@@ -8,6 +8,8 @@ venue: 'Optical Fiber Technology'
 citation: ' Guilherme Sampaio,  Felipe Barino,  Alexandre Santos, &quot;Long-period fiber grating sensor interrogation with single strain modulated FBG and harmonic analysis.&quot; Optical Fiber Technology, 2022.'
 ---
 
+[Acesse o artigo](https://linkinghub.elsevier.com/retrieve/pii/S1068520022001237){:target="_blank"}
+
 <img src="/images/graphical_abstract_lpg_interrogation_harmonic.png">
 
 ## O problema
@@ -26,4 +28,3 @@ Neste artigo, propomos um novo método para interrogação de sensores LPFG. Est
 
 Acreditamos que este trabalho contribui para o desenvolvimento de métodos de interrogação mais eficientes e acessíveis para sensores LPFG, com potencial para diversas aplicações em áreas como monitoramento de saúde estrutural e detecção bioquímica.
 
-[Acesse o artigo](https://linkinghub.elsevier.com/retrieve/pii/S1068520022001237){:target="_blank"}

@@ -8,6 +8,8 @@ venue: 'IEEE Sensors Journal'
 citation: ' Renato Faraco-Filho,  Joao Castro,  Felipe Barino,  Deivid Campos,  Alexandre Santos, &quot;Monitoring and Characterization Technology for Coffee Fermentation Aromas: A Data-Driven Approach.&quot; IEEE Sensors Journal, 2024.'
 ---
 
+[Acesse o artigo](https://doi.org/10.1109/JSEN.2024.3357294){:target="_blank"}
+
 <img src="/images/graphical_abstract_monitoring-characterization-coffee.jpg">
 
 ## O problema
@@ -26,4 +28,3 @@ Os resultados do nosso estudo demonstram que a nossa abordagem proposta é uma f
 
 Acreditamos que este trabalho abre caminho para a aplicação de sensores e técnicas de monitoramento em processos industriais, especialmente no setor agroindustrial. As perspectivas futuras incluem o desenvolvimento de sistemas de monitoramento em tempo real que possibilitem um controle mais preciso da fermentação, levando à produção de café com qualidade e eficiência aprimoradas.
 
-[Acesse o artigo](https://doi.org/10.1109/JSEN.2024.3357294){:target="_blank"}

@@ -8,6 +8,8 @@ venue: 'Optics Letters'
 citation: ' Renato Filho,  Felipe Barino,  João Calderano,  Ítalo Alvarenga,  Deivid Campos,  Alexandre Santos, &quot;In-fiber Mach–Zehnder interferometer as a promising tool for optical nose and odor prediction during the fermentation process.&quot; Optics Letters, 2023.'
 ---
 
+[Acesse o artigo](https://doi.org/10.1364/OL.486742){:target="_blank"}
+
 <img src="/images/graphical_abstract_mzi_promissing_opto_nose.png">
 
 ## O problema
@@ -26,4 +28,3 @@ Os resultados mostraram que os MZIs em fibra são candidatos promissores para na
 
 Este trabalho abre caminho para o desenvolvimento de narizes ópticos mais avançados e eficientes para monitorar a fermentação em diversas aplicações. A capacidade de detectar e classificar odores em tempo real pode levar a melhorias significativas no controle de qualidade e na otimização dos processos de fermentação.
 
-[Acesse o artigo](https://doi.org/10.1364/OL.486742){:target="_blank"}

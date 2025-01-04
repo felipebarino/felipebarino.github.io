@@ -8,6 +8,8 @@ venue: 'Optics &amp; Laser Technology'
 citation: ' Felipe Barino,  Renato Faraco-Filho,  Deivid Campos,  Alexandre Santos, &quot;3d-printed force sensitive structure using embedded long-period fiber grating.&quot; Optics &amp;amp; Laser Technology, 2022.'
 ---
 
+[Acesse o artigo](https://linkinghub.elsevier.com/retrieve/pii/S0030399221007854){:target="_blank"}
+
 <img src="/images/graphical_abstract_3dp_force.png">
 
 ## O problema
@@ -26,5 +28,4 @@ Nossos resultados demonstram que o sensor proposto possui alta sensibilidade à 
 
 Esta pesquisa abre caminho para o desenvolvimento de uma nova geração de sensores táteis de baixo custo e alta performance, que podem ser facilmente integrados em robôs e próteses. A capacidade de personalizar a forma e a função do sensor através da impressão 3D oferece um enorme potencial para aplicações em diversas áreas, como medicina, indústria e exploração espacial.
 
-[Acesse o artigo](https://linkinghub.elsevier.com/retrieve/pii/S0030399221007854){:target="_blank"}
 
