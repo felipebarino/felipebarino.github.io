@@ -8,3 +8,6 @@ venue: 'IEEE Transactions on Instrumentation and Measurement'
 citation: ' Felipe Barino,  Alexandre Santos, &quot;Addressing Uncertainty on Machine Learning Models for Long-Period Fiber Grating Signal Conditioning Using Monte Carlo Method.&quot; IEEE Transactions on Instrumentation and Measurement, 2024.'
 ---
 [Acesse o artigo](https://doi.org/10.1109/TIM.2024.3350133){:target="_blank"}
+
+
+ <br/><img src='/images/abstract_uncertainty.png'>
