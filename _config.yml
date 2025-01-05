@@ -22,9 +22,9 @@ repository               : "felipebarino/felipebarino.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Felipe Barrino"
+  name             : "Felipe Barino"
   pronouns         : # example: "she/her"  
-  bio              : "Pesquisador na área de instrumentação óptica"
+  bio              : "Engenheiro eletricista\nPesquisador na área de instrumentação"
   location         : "Juiz de Fora, MG, Brasil"
   employer         : "Universidade Federal de Juiz de Fora"
   uri              : # URL
