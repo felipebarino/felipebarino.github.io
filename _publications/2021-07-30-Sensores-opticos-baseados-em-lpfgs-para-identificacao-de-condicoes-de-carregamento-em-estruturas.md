@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-07-30-Sensores-opticos-baseados-em-lpfgs-para-identificacao-de-condicoes-de-carregamento-em-estruturas
 category: theses
 date: 2021-07-30
-venue: 'Programa de Pós-graduação em Engenharia Elétrica (UFJF)'
+venue: 'repositório institucional da Universidade Federal de Juiz de Fora'
 citation: 'Felipe Barino, "Sensores ópticos baseados em LPFGs para identificação de condições de carregamento em estruturas." repositório institucional da Universidade Federal de Juiz de Fora, 2019.'
 ---
 
