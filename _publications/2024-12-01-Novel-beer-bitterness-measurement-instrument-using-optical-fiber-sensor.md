@@ -10,7 +10,7 @@ citation: ' Renato Filho,  Felipe Barino,  João Calderano,  Deivid Campos,  Ít
 
 [Acesse o artigo](https://doi.org/10.1016/j.jfoodeng.2024.112246){:target="_blank"}
 
-<img src="/images/graphical_abstract_beer_bitterness.jpg">
+<img src="/images/graphical_abstract_beer_bitterness.png">
 
 ## O problema
 
