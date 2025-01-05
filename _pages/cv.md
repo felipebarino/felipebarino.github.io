@@ -10,19 +10,19 @@ redirect_from:
 {% include base_path %}
 
 Formação
-======
+---
 * Ph.D em Engenharia Elétrica, Universidade Federal de Juiz de Fora, 2025 (em andamento)
 * M.S. em Engenharia Elétrica, Universidade Federal de Juiz de Fora, 2021
 * B.S. em Engenharia Elétrica, Universidade Federal de Juiz de Fora, 2019
 
 Ensino
-======
+---
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Pesquisa e desenvolvimento
-======
+---
 * 2023-Atual: Desenvolvimento e Aplicação de Metodologia para Segregação de Perdas de Cargas e Fenômenos Hidráulicos na Tomada d'água
   * Local: Laboratório de Instrumentação e Telemetria
   * Atividades: Metodologia, Validação, Calibração, Desenvolvimento de software, Infraestrutura de redes
@@ -40,7 +40,7 @@ Pesquisa e desenvolvimento
   * Atividades: Análise de dados
 
 Patentes
-======
+---
 
 * Dispositivo de Medição de Vórtice. Número do registro: BR1020190272473, Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 10/02/2020
 
@@ -49,7 +49,7 @@ Patentes
 * Sensor óptico baseado em um interferômetro de Mach-Zehnder em fibra para monitoramento do processo de fermentação. Número do registro: BR10202300620, Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 03/04/2023 
 
 Publicações
-======
+---
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
