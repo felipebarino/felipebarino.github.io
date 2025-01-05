@@ -27,5 +27,3 @@ Nossos resultados demonstram que o sensor proposto possui alta sensibilidade à 
 ## Perspectivas
 
 Esta pesquisa abre caminho para o desenvolvimento de uma nova geração de sensores táteis de baixo custo e alta performance, que podem ser facilmente integrados em robôs e próteses. A capacidade de personalizar a forma e a função do sensor através da impressão 3D oferece um enorme potencial para aplicações em diversas áreas, como medicina, indústria e exploração espacial.
-
-
