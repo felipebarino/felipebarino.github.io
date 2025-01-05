@@ -1,5 +1,5 @@
 ---
-title: "Curso de especialização IDASE - UFJF"
+title: "UFJF - Curso de especialização IDASE"
 collection: teaching
 type: "Pós-graduação Lato sensu"
 permalink: /teaching/2023-UFJF-substituto-pos_grad
