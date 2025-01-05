@@ -1,5 +1,5 @@
 ---
-title: "Engenharia Elétrica - UFJF"
+title: "Departamento de Circuitos Elétricos - UFJF"
 collection: teaching
 type: "Graduação"
 permalink: /teaching/2023-UFJF-substituto-grad
