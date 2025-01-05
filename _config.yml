@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Felipe Barino"
   pronouns         : # example: "she/her"  
-  bio              : "Engenheiro eletricista\nPesquisador na área de instrumentação"
+  bio              : "Engenheiro eletricista"
   location         : "Juiz de Fora, MG, Brasil"
   employer         : "Universidade Federal de Juiz de Fora"
   uri              : # URL
@@ -83,6 +83,10 @@ publication_category:
     title: 'Artigos em Periódicos'    
   conferences:
     title: 'Artigos em Conferências'
+  theses:
+    title: 'Teses e Dissertações'
+  classes:
+    title: 'Apostilas e Notas de Aula'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
