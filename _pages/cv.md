@@ -11,18 +11,21 @@ redirect_from:
 
 Formação
 ---
-* Ph.D em Engenharia Elétrica, Universidade Federal de Juiz de Fora, 2025 (em andamento)
+
+* Ph.D em Engenharia Elétrica, Universidade Federal de Juiz de Fora, 2025
 * M.S. em Engenharia Elétrica, Universidade Federal de Juiz de Fora, 2021
 * B.S. em Engenharia Elétrica, Universidade Federal de Juiz de Fora, 2019
 
 Ensino
 ---
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Pesquisa e desenvolvimento
 ---
+
 * 2023-Atual: Desenvolvimento e Aplicação de Metodologia para Segregação de Perdas de Cargas e Fenômenos Hidráulicos na Tomada d'água
   * Local: Laboratório de Instrumentação e Telemetria
   * Atividades: Metodologia, Validação, Calibração, Desenvolvimento de software, Infraestrutura de redes
@@ -50,6 +53,7 @@ Patentes
 
 Publicações
 ---
+
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
