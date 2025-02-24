@@ -4,11 +4,11 @@ collection: publications
 permalink: /publication/2025-01-21-Machine-learning-based-log-period-fiber-grating-demodulation
 category: theses
 date: 2025-01-21
-venue: 'repositório institucional da Universidade Federal de Juiz de Fora (em edição)'
+venue: 'repositório institucional da Universidade Federal de Juiz de Fora'
 citation: 'Felipe Barino, "Machine Learning-Based long-period fiber grating demodulation: A promising tool for cost-effective in-field implementation." repositório institucional da Universidade Federal de Juiz de Fora, (Tese de Doutorado) 2025.'
 ---
 
-[Acesse a tese](/files/tese_barino.pdf){:target="_blank"}
+[Acesse a tese](https://repositorio.ufjf.br/jspui/handle/ufjf/18165){:target="_blank"}
 
 
 ## O problema
