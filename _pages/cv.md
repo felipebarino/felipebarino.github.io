@@ -45,11 +45,13 @@ Pesquisa e desenvolvimento
 Patentes
 ---
 
-* Sensor óptico a fibra para medição de cálcio em leite. Número do registro: BR102023006215, Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 03/04/2023
+* Sensor óptico a fibra para medição de cálcio em leite. Número do registro: BR1020230062156, Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 03/04/2023
 
-* Sensor óptico baseado em um interferômetro de Mach-Zehnder em fibra para monitoramento do processo de fermentação. Número do registro: BR102023006208, Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 03/04/2023 
+* Sensor óptico baseado em um interferômetro de Mach-Zehnder em fibra para monitoramento do processo de fermentação. Número do registro: BR1020230062083, Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 03/04/2023 
 
 * Dispositivo de Medição de Vórtice. Número do registro: BR1020190272473, Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 10/02/2020
+
+* Capa Invólucro para Sensores a Fibra Óptica. Número do registro: BR1020200025503, Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 06/02/2020
 
 Publicações
 ---

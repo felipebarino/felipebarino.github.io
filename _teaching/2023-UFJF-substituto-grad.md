@@ -8,7 +8,7 @@ date: 2023-03-01
 location: "Juiz de Fora, Brasil"
 ---
 
-Professor Substituto no Departamento de Circuitos Elétricos desde Março de 2023
+Professor Substituto no Departamento de Circuitos Elétricos de Março de 2023 a Março de 2025
 
 Disciplinas
 ---
@@ -25,7 +25,7 @@ Disciplinas
 Orientações
 ---
 * Trabalhos de conclusão de curso
-    * Renan Faria Fontes Leite. Caracterização de filtro baseado em interferômetro de Fabry Perot para interrogação de sensores óticos. 2024 (em andamento) 
+    * Renan Faria Fontes Leite. Identificação de falhas em motores pelo uso de sensores ópticos. 2025
     * Lucas de Paula Afonso Tinoco. Parede interativa para treino de escalada indoor: Desenvolvimento de agarras sensíveis ao toque. 2024
 
 * Monitoria
