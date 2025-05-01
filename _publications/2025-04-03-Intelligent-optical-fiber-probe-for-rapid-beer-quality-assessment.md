@@ -5,10 +5,10 @@ permalink: /publication/2025-04-03-Intelligent-optical-fiber-probe-for-rapid-bee
 category: manuscripts
 date: 2025-04-03
 venue: 'Journal of Food Engineering'
-citation: ' Felipe Barino, João Calderano,  Renato Filho, Alexandre Santos, &quot;Intelligent optical fiber probe for rapid beer quality assessment.&quot; Journal of Food Engineering, 2025.'
+citation: 'Felipe Barino, João Calderano, Renato Filho, Alexandre Santos, &quot;Intelligent optical fiber probe for rapid beer quality assessment.&quot; Journal of Food Engineering, 2025.'
 ---
 
-[Acesse o artigo](https://www.sciencedirect.com/science/article/pii/S0260877425001189){:target="_blank"}
+[Acesse o artigo](https://doi.org/10.1016/j.jfoodeng.2025.112583){:target="_blank"}
 
 ## O problema
 
