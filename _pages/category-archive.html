@@ -5,8 +5,17 @@ title: "Posts por categoria"
 author_profile: true
 ---
 
+
 {% include base_path %}
-{% include group-by-array collection=site.posts field="categories" %}
+
+{% assign all_items = site.posts | concat: site.publications %}
+
+{% comment %}
+  {% include group-by-array collection=site.posts field="categories" %}
+  A linha acima foi substituída para incluir posts E publicações
+{% endcomment %}
+{% include group-by-array collection=all_items field="categories" %}
+
 
 {% for category in group_names %}
   {% assign posts = group_items[forloop.index0] %}
