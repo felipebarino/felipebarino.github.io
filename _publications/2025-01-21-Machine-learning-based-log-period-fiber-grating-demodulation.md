@@ -25,4 +25,14 @@ Os resultados demonstram a eficácia da abordagem proposta, mostrando sua alta p
 
 ## Perspectivas
 
-Foi obtida uma contribuição significativa para o campo da interrogação de sensores LPG, oferecendo uma solução promissora. A solução proposta é ideal para aplicações como: monitoramento de saúde estrutural, sensoriamento ambiental e controle de processos industriais. Ou seja, a solulção encontrada abre caminho para avanços adicionais na tecnologia de sensoriamento LPG e sua ampla adoção em campo. As técnicas de aprendizado de máquina e o uso de filtros ópticos esparsos podem levar a sistemas de interrogação mais eficientes, compactos e versáteis. Além disso, o uso de dados sintéticos para treinamento e a capacidade de integrar sensores FBG e LPG em uma única rede abrem caminho para o desenvolvimento de sistemas de sensoriamento quase distribuído mais poderosos e econômicos
+Foi obtida uma contribuição significativa para o campo da interrogação de sensores LPG, oferecendo uma solução promissora. A solução proposta é ideal para aplicações como: monitoramento de saúde estrutural, sensoriamento ambiental e controle de processos industriais. Ou seja, a solução encontrada abre caminho para avanços adicionais na tecnologia de sensoriamento LPG e sua ampla adoção em campo. As técnicas de aprendizado de máquina e o uso de filtros ópticos esparsos podem levar a sistemas de interrogação mais eficientes, compactos e versáteis. Além disso, o uso de dados sintéticos para treinamento e a capacidade de integrar sensores FBG e LPG em uma única rede abrem caminho para o desenvolvimento de sistemas de sensoriamento quase distribuído mais poderosos e econômicos
+
+## Artigos publicados
+
+[Uso de redes neurais](https://felipebarino.github.io//publication/2020-12-01-LPG-Interrogator-Based-on-FBG-Array-and-Artificial-Neural-Network)
+
+[Uso de sistema Fuzzy](https://felipebarino.github.io//publication/2022-01-01-A-Fuzzy-Approach-to-LPFG-Based-Optical-Sensor-Processing-and-Interrogation)
+
+[Propagação da incerteza](https://felipebarino.github.io//publication/2024-01-01-Addressing-Uncertainty-on-Machine-Learning-Models-for-Long-Period-Fiber-Grating-Signal-Conditioning-Using-Monte-Carlo-Method)
+
+[Abordagem multi sensor e treinamento sintético](https://felipebarino.github.io//publication/2025-05-23-Self-Attention-AIModel-for-Practical-Sensor-Networking)
