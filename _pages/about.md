@@ -13,7 +13,7 @@ Como especilista em instrumentação, conecto o mundo físico ao digital para ge
 
 A minha proposta foi unir esta tecnologia com Machine Learning para criar um esquema de instrumentação multi-sensores com uma relação custo-benefício drasticamente melhorada, tornando a tecnologia competitiva. Mais do que apenas criar modelos, meu foco esteve em garantir sua confiabilidade. Por isso, desenvolvi metodologias para quantificar incertezas e melhorar a interpretabilidade – passos essenciais para transformar um algoritmo em um instrumento de medição confiável.
 
-Minha experiência é prática e validada pelo indústria. Desde 2016, no Laboratório de Instrumentação e Telemetria da UFJF, atuei ativamente em projetos de Pesquisa e Desenvolvimento (PDI) em parceria direta com grandes empresas, como Ambev, EDP e Santo Antônio Energia. Nesses projetos, auxiliei na coordenação técnica das equipes de laboratório e liderei as atividades de pesquisa para garantir que os resultados científicos estivessem alinhados às demandas e aos cronogramas dos parceiros industriais.
+Minha experiência é prática e validada pelo indústria. Desde 2016, no Laboratório de Instrumentação e Telemetria da UFJF, atuei ativamente em projetos de Pesquisa e Desenvolvimento (P&D) em parceria direta com grandes empresas, como Ambev, EDP e Santo Antônio Energia. Nesses projetos, auxiliei na coordenação técnica das equipes de laboratório e liderei as atividades de pesquisa para garantir que os resultados científicos estivessem alinhados às demandas e aos cronogramas dos parceiros industriais.
 
 Atividades
 ---
