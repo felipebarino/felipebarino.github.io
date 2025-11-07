@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Olá, sou engenheiro eletricista (PhD) focado em transformar a tecnologia de ponta em soluções práticas e escaláveis. 
+Olá, sou engenheiro eletricista focado em transformar a tecnologia de ponta em soluções práticas e escaláveis. 
 
-Como especilista em instrumentação, conecto o mundo físico ao digital para gerar insights e extrair informações relevantes do ambiente, produtos e processos. Minha trajetória de pesquisa é focada em resolver desafios de tecnologias promissoras, mas que não conseguiram transicionar para a indústria. No doutorado, por exemplo, identifiquei que a tecnologia promissora de sensores LPGs era subutilizada em campo. O motivo? Um problema clássico da indústria: alto custo e baixa escalabilidade dos sistemas de medição. 
+Como especilista em instrumentação, conecto o mundo físico ao digital para gerar extrair informações relevantes do ambiente, produtos e processos. Minha trajetória de pesquisa é focada em resolver desafios de tecnologias de ponta, mas que não conseguiram transicionar para a indústria. No doutorado, por exemplo, identifiquei que as LPGs eram subutilizada em campo, apesar de ser um tipo de sensor muito promissor. O motivo? Um problema clássico da indústria: alto custo e baixa escalabilidade dos sistemas de medição. 
 
-A minha proposta foi unir esta tecnologia com Machine Learning para criar um esquema de instrumentação multi-sensores com uma relação custo-benefício drasticamente melhorada, tornando a tecnologia competitiva para monitoramento estrutural e de processos em larga escala. Mais do que apenas criar modelos, meu foco esteve em garantir sua confiabilidade, desenvolvendo metodologias para quantificar incertezas e melhorar a interpretabilidade – passos essenciais para transformar um algoritmo em um instrumento de medição confiável.
+A minha proposta foi unir esta tecnologia com Machine Learning para criar um esquema de instrumentação multi-sensores com uma relação custo-benefício drasticamente melhorada, tornando a tecnologia competitiva. Mais do que apenas criar modelos, meu foco esteve em garantir sua confiabilidade. Por isso, desenvolvi metodologias para quantificar incertezas e melhorar a interpretabilidade – passos essenciais para transformar um algoritmo em um instrumento de medição confiável.
 
-Minha experiência é prática e validada pelo indústria. Desde 2016, no Laboratório de Instrumentação e Telemetria da UFJF, atuei ativamente em projetos de Pesquisa e Desenvolvimento (PDI) em parceria direta com Grandes empresas, como Ambev, EDP e Santo Antônio Energia.
-
-Nesses projetos, auxiliei na coordenação técnica das equipes de laboratório e liderei as atividades de pesquisa para garantir que os resultados científicos estivessem alinhados às demandas e aos cronogramas dos parceiros industriais.
+Minha experiência é prática e validada pelo indústria. Desde 2016, no Laboratório de Instrumentação e Telemetria da UFJF, atuei ativamente em projetos de Pesquisa e Desenvolvimento (PDI) em parceria direta com grandes empresas, como Ambev, EDP e Santo Antônio Energia. Nesses projetos, auxiliei na coordenação técnica das equipes de laboratório e liderei as atividades de pesquisa para garantir que os resultados científicos estivessem alinhados às demandas e aos cronogramas dos parceiros industriais.
 
 Atividades
 ---
