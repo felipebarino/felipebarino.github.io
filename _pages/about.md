@@ -9,7 +9,7 @@ redirect_from:
 
 Olá, sou engenheiro eletricista focado em transformar a tecnologia de ponta em soluções práticas e escaláveis. 
 
-Como especilista em instrumentação, conecto o mundo físico ao digital para gerar extrair informações relevantes do ambiente, produtos e processos. Minha trajetória de pesquisa é focada em resolver desafios de tecnologias de ponta, mas que não conseguiram transicionar para a indústria. No doutorado, por exemplo, identifiquei que as LPGs eram subutilizada em campo, apesar de ser um tipo de sensor muito promissor. O motivo? Um problema clássico da indústria: alto custo e baixa escalabilidade dos sistemas de medição. 
+Como especilista em instrumentação, conecto o mundo físico ao digital para extrair informações relevantes do ambiente, produtos e processos. Minha trajetória de pesquisa é focada em resolver desafios usando tecnologias de ponta, mas que não conseguiram transicionar para a indústria. No doutorado, por exemplo, identifiquei que as LPGs eram subutilizada em campo, apesar de ser um tipo de sensor muito promissor em diversas áreas. O motivo? Alto custo e baixa escalabilidade dos sistemas de medição. 
 
 A minha proposta foi unir esta tecnologia com Machine Learning para criar um esquema de instrumentação multi-sensores com uma relação custo-benefício drasticamente melhorada, tornando a tecnologia competitiva. Mais do que apenas criar modelos, meu foco esteve em garantir sua confiabilidade. Por isso, desenvolvi metodologias para quantificar incertezas e melhorar a interpretabilidade – passos essenciais para transformar um algoritmo em um instrumento de medição confiável.
 
