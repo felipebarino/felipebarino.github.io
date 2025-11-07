@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /know_more
 title: "Conheça mais"
 author_profile: true
 redirect_from: 
