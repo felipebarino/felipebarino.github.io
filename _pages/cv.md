@@ -12,8 +12,8 @@ redirect_from:
 Formação
 ---
 
-* Ph.D em Engenharia Elétrica, Universidade Federal de Juiz de Fora, 2025
-* M.S. em Engenharia Elétrica, Universidade Federal de Juiz de Fora, 2021
+* [Ph.D]({{ site.baseurl }}/publication/2025-01-21-Machine-learning-based-log-period-fiber-grating-demodulation) em Engenharia Elétrica, Universidade Federal de Juiz de Fora, 2025
+* [M.S.]({{ site.baseurl }}/publication/2021-07-30-Sensores-opticos-baseados-em-lpfgs-para-identificacao-de-condicoes-de-carregamento-em-estruturas) em Engenharia Elétrica, Universidade Federal de Juiz de Fora, 2021
 * B.S. em Engenharia Elétrica, Universidade Federal de Juiz de Fora, 2019
 
 Ensino
@@ -26,7 +26,7 @@ Ensino
 Pesquisa e desenvolvimento
 ---
 
-* 2023-Atual: Desenvolvimento e Aplicação de Metodologia para Segregação de Perdas de Cargas e Fenômenos Hidráulicos na Tomada d'água
+* 2023-2025: Desenvolvimento e Aplicação de Metodologia para Segregação de Perdas de Cargas e Fenômenos Hidráulicos na Tomada d'água
   * Local: Laboratório de Instrumentação e Telemetria
   * Atividades: Metodologia, Validação, Calibração, Desenvolvimento de software, Infraestrutura de redes
 

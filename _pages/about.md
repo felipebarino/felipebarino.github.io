@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Olá, eu estudo novas formas de fabricar, interpretar e aplicar sensores a fibra óptica. 
+Olá, sou engenheiro eletricista (PhD) focado em transformar a tecnologia de ponta em soluções práticas e escaláveis. 
 
-Estudei Engenharia Elétrica na Universidade Federal de Juiz de Fora (UFJF) e lá fiz o Mestrado e o Doutorado. Tenho interesse na área de eletrônica, mais especificamente instrumentação. Minha pesquisa é voltada para sensores a fibra óptica e relaciona estes sensores com processamento de sinais e aprendizado de máquinas. 
+Como especilista em instrumentação, conecto o mundo físico ao digital para gerar insights e extrair informações relevantes do ambiente, produtos e processos. Minha trajetória de pesquisa é focada em resolver desafios de tecnologias promissoras, mas que não conseguiram transicionar para a indústria. No doutorado, por exemplo, identifiquei que a tecnologia promissora de sensores LPGs era subutilizada em campo. O motivo? Um problema clássico da indústria: alto custo e baixa escalabilidade dos sistemas de medição. 
 
-No mestrado eu estudei como as Redes de Período Longo (LPGs) podem ser utilizadas para monitoramento estrutal, apresentando algumas topologias. A mais interessante delas foi usar os efeitos de birrefringência para criar sensores bidirecionais usando apenas um dispositivo. 
+A minha proposta foi unir esta tecnologia com Machine Learning para criar um esquema de instrumentação multi-sensores com uma relação custo-benefício drasticamente melhorada, tornando a tecnologia competitiva para monitoramento estrutural e de processos em larga escala. Mais do que apenas criar modelos, meu foco esteve em garantir sua confiabilidade, desenvolvendo metodologias para quantificar incertezas e melhorar a interpretabilidade – passos essenciais para transformar um algoritmo em um instrumento de medição confiável.
 
-Já no doutorado, estudei o uso de aprendizado de máquinas para resolver um problema de escalabilidade nas aplicações usando este mesmo tipo de sensor. Como os sistemas de interrogação são caros e as LPGs têm baixa capacidade de multiplexação, elas têm tido pouca aplicação em campo. Para aumentar o apelo prático desta tecnologia, estudei formas de baratear os custos e torná-las competitivas para a indústria. Neste aspecto, desenvolvi alguns modelos para permitir o uso de hardware simples, com foco em melhorar o custo benefício das LPGs. O estudo focou em desenvolver modelos, melhorar a interpretabilidade e também a quantificação de incerteza neles. Logo, além de propor os modelos, também pude propor meotodologias para torná-los confiáveis no contexto de instrumentos de medição. Ao final da pesquisa, um esquema de instrumentação multi sensores foi proposto e testado, melhorando o custo benefício do uso de LPGs em sistemas quasi-distribuídos.
+Minha experiência é prática e validada pelo indústria. Desde 2016, no Laboratório de Instrumentação e Telemetria da UFJF, atuei ativamente em projetos de Pesquisa e Desenvolvimento (PDI) em parceria direta com Grandes empresas, como Ambev, EDP e Santo Antônio Energia.
 
-Tenho experiência em calibração e avaliação de sensores; no desenvolvimento de modelos de aprendizado de máquinas; e no desenvolvimento de softwares supervisórios para calibração de sensores e para medição em campo. Trabalho no Laboratório de Instrumentação e Telemetria da UFJF desde 2016, onde participei de projetos de pesquisa e desenvolvimento em parceria com empresas dos mais diversos ramos, como Santo Antônio Energia, EDP e Ambev. Entre Março de 2023 e de 2025 atuei como professor substituto no Departamento de Circuitos Elétricos da UFJF.
+Nesses projetos, auxiliei na coordenação técnica das equipes de laboratório e liderei as atividades de pesquisa para garantir que os resultados científicos estivessem alinhados às demandas e aos cronogramas dos parceiros industriais.
 
-Pesquisa
+Atividades
 ---
 * Fabricação de sensores a fibra
   * Simulação, fabricação e validação de dispositivos a fibra óptica para instrumentação. 
@@ -27,10 +27,19 @@ Pesquisa
   * Extrair de informação de dispositivos ópticos, como espectro ou potência óptica, para estimação de características que podem ser utilizadas na calibração de sensores. 
 
 * Sensores aplicados
-  * Estreitar a relação entre o laboratório de pesquisa e a indústria. 
+  * Estreitar a relação entre pesquisa e indústria. 
   * Resolver problemas e desafios através de novas aplicações para sensores ópticos.
 
 * Aprendizado de máquinas
-  * Desenvolve modelos de aprendizado de máquinas para processar dados dos sensores. 
+  * Desenvolver modelos de aprendizado de máquinas para processar dados dos sensores. 
   * Aplicar modelos aos dados coletados para prever tendências, segmentá-los e classificá-los. 
   * Entender como fazer os modelos confiáveis para aplicação como modelos de instrumentos. Avaliar incerteza e erros nestes modelos.
+
+* Sistemas de monitoramento
+  * Desenvolver sistemas completos, do sensor à informação.
+  * Criar bancos de dados em nuvem e aplicações supervisórias.
+  * Treinar modelos para extrair insights dos dados.
+
+Pesquisa
+---
+Conheça mais sobre o que eu desenvolvi no [Mestrado]({{ site.baseurl }}/publication/2021-07-30-Sensores-opticos-baseados-em-lpfgs-para-identificacao-de-condicoes-de-carregamento-em-estruturas) e no [Doutorado]({{ site.baseurl }}/publication/2025-01-21-Machine-learning-based-log-period-fiber-grating-demodulation).

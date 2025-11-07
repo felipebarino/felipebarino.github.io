@@ -8,7 +8,7 @@ date: 2024-04-01
 location: "Juiz de Fora, Brasil"
 ---
 
-Lecionou a disciplina de Instrumentação para o curso de pós-graduação em Inteligência de Dados Aplicada ao Setor Elétrico (IDASE).
+Lecionei a disciplina de Instrumentação para o curso de pós-graduação em Inteligência de Dados Aplicada ao Setor Elétrico (IDASE).
 
 Disciplina
 ---
