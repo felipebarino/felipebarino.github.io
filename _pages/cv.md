@@ -26,20 +26,30 @@ Ensino
 Pesquisa e desenvolvimento
 ---
 
+* 2026-Atual: Nova metodologia de medição e análise espectrolóptico para medição e caracterização de efluentes
+  * Local: Laboratório de Instrumentação e Telemetria
+  * Parceiria: Companhia de Saneamento de Minas Gerais (COPASA MG)
+  * Atividades: Metodologia, Validação, Análise estatística, Desenvolvimento de modelos de IA 
+
+
 * 2023-2025: Desenvolvimento e Aplicação de Metodologia para Segregação de Perdas de Cargas e Fenômenos Hidráulicos na Tomada d'água
   * Local: Laboratório de Instrumentação e Telemetria
+  * Parceiria: Santo Antôno Energia / Axia
   * Atividades: Metodologia, Validação, Calibração, Desenvolvimento de software, Infraestrutura de redes
 
 * 2022-2024: Aferição dos sensores a fibra óptica desenvolvidos para a Ambev
   * Local: Laboratório de Instrumentação e Telemetria
+  * Parceiria: Ambev
   * Atividades: Metodologia, Validação, Desenvolvimento de software, Análise de dados
 
 * 2021-2022: Identificação de Parâmetros na Cerveja, como Amargor, utilizando Sensores a Fibra Óptica
   * Local: Laboratório de Instrumentação e Telemetria
+  * Parceiria: Ambev
   * Atividades: Metodologia, Desenvolvimento de software, Análise de dados
 
 * 2020-2023: Desenvolvimento de Sistemas Mecatrônicos Remotamente Operados para Limpeza e Inspeção do Batente e Soleira de Vedação dos StopLogs de Hidroelétricas
   * Local: Laboratório de Instrumentação e Telemetria
+  * Parceiria: Santo Antôno Energia / Axia
   * Atividades: Análise de dados
 
 Patentes
@@ -50,8 +60,6 @@ Patentes
 * Sensor óptico baseado em um interferômetro de Mach-Zehnder em fibra para monitoramento do processo de fermentação. Número do registro: BR1020230062083, Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 03/04/2023 
 
 * Dispositivo de Medição de Vórtice. Número do registro: BR1020190272473, Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 10/02/2020
-
-* Capa Invólucro para Sensores a Fibra Óptica. Número do registro: BR1020200025503, Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 06/02/2020
 
 Publicações
 ---
