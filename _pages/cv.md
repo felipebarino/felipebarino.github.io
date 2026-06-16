@@ -28,28 +28,28 @@ Pesquisa e desenvolvimento
 
 * 2026-Atual: Nova metodologia de medição e análise espectrolóptico para medição e caracterização de efluentes
   * Local: Laboratório de Instrumentação e Telemetria
-  * Parceiria: Companhia de Saneamento de Minas Gerais (COPASA MG)
+  * Parceria: Companhia de Saneamento de Minas Gerais (COPASA MG)
   * Atividades: Metodologia, Validação, Análise estatística, Desenvolvimento de modelos de IA 
 
 
 * 2023-2025: Desenvolvimento e Aplicação de Metodologia para Segregação de Perdas de Cargas e Fenômenos Hidráulicos na Tomada d'água
   * Local: Laboratório de Instrumentação e Telemetria
-  * Parceiria: Santo Antôno Energia / Axia
+  * Parceria: Santo Antôno Energia / Axia
   * Atividades: Metodologia, Validação, Calibração, Desenvolvimento de software, Infraestrutura de redes
 
 * 2022-2024: Aferição dos sensores a fibra óptica desenvolvidos para a Ambev
   * Local: Laboratório de Instrumentação e Telemetria
-  * Parceiria: Ambev
+  * Parceria: Ambev
   * Atividades: Metodologia, Validação, Desenvolvimento de software, Análise de dados
 
 * 2021-2022: Identificação de Parâmetros na Cerveja, como Amargor, utilizando Sensores a Fibra Óptica
   * Local: Laboratório de Instrumentação e Telemetria
-  * Parceiria: Ambev
+  * Parceria: Ambev
   * Atividades: Metodologia, Desenvolvimento de software, Análise de dados
 
 * 2020-2023: Desenvolvimento de Sistemas Mecatrônicos Remotamente Operados para Limpeza e Inspeção do Batente e Soleira de Vedação dos StopLogs de Hidroelétricas
   * Local: Laboratório de Instrumentação e Telemetria
-  * Parceiria: Santo Antôno Energia / Axia
+  * Parceria: Santo Antôno Energia / Axia
   * Atividades: Análise de dados
 
 Patentes
