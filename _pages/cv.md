@@ -31,7 +31,6 @@ Pesquisa e desenvolvimento
   * Parceria: Companhia de Saneamento de Minas Gerais (COPASA MG)
   * Atividades: Metodologia, Validação, Análise estatística, Desenvolvimento de modelos de IA 
 
-
 * 2023-2025: Desenvolvimento e Aplicação de Metodologia para Segregação de Perdas de Cargas e Fenômenos Hidráulicos na Tomada d'água
   * Local: Laboratório de Instrumentação e Telemetria
   * Parceria: Santo Antôno Energia / Axia

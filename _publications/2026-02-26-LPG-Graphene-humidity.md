@@ -11,9 +11,6 @@ citation: 'João de Castro, Anne Fernandes, Nayton Vicentini, Giovanni Carvalho,
 
 [Acesse o artigo](https://doi.org/10.1109/ACCESS.2026.3668462){:target="_blank"}
 
-Aqui está uma proposta de material de divulgação científica estruturado, ideal para ser publicado em sites institucionais ou portfólios de pesquisa:
-
----
 
 ### O Problema
 
